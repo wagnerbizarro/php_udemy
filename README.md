@@ -1,6 +1,6 @@
 # curso-php
-Professor Matheus Battisti
-https://github.com/matheusbattisti
+Professor Matheus Battisti  
+https://github.com/matheusbattisti  
   
 Plataforma Udemy  
 https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/
